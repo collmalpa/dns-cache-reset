@@ -76,4 +76,3 @@ DNS cache reset process completed.
 ## License
 
 This script is open-source and distributed under the [MIT License](LICENSE).
-```
